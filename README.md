@@ -2,7 +2,13 @@
 
 ### Dados, Business Intelligence e Automação
 
-Profissional de Administração e Finanças com foco em análise de dados, Business Intelligence e melhoria de processos. Atuo na conexão entre conhecimento de negócio, modelagem de dados e tecnologia para transformar informações em decisões mais claras, ágeis e sustentáveis.
+Formado em **Administração de Empresas**, especialista em **Finanças** e pós-graduado em **Finanças e Big Data Analytics pela USP**. Uno conhecimento de negócio ao domínio de ferramentas de dados e Business Intelligence para transformar informações em decisões mais claras, ágeis e sustentáveis.
+
+## Formação
+
+- Administração de Empresas
+- Especialização em Finanças
+- Pós-graduação em Finanças e Big Data Analytics — USP
 
 ## Proposta de valor
 
