@@ -1,15 +1,15 @@
 # Eric Vieira
 
-### Dados, Business Intelligence e Gestão de Custos
+### Gestão de Custos, Dados e Business Intelligence
 
-Profissional de Administração e Finanças com atuação em análise de dados, gestão de custos e melhoria de processos. Desenvolvo soluções que conectam conhecimento de negócio, modelagem de dados e tecnologia para transformar informações em decisões mais claras, ágeis e sustentáveis.
+Profissional de Administração e Finanças com foco em **Gestão de Custos**, análise de dados e melhoria de processos. Atuo na conexão entre conhecimento de negócio, modelagem de custos e tecnologia para transformar informações em decisões mais claras, ágeis e sustentáveis.
 
 ## Proposta de valor
 
-Meu trabalho está concentrado na convergência entre três frentes:
+Minha atuação tem a Gestão de Custos como eixo central e está estruturada na convergência entre três frentes:
 
-- **Negócio:** custos, finanças, indicadores e processos
-- **Dados:** preparação, modelagem, análise e comunicação
+- **Gestão de Custos:** mensuração, alocação, análise, indicadores e apoio à decisão
+- **Dados e negócio:** finanças, processos, preparação, modelagem, análise e comunicação
 - **Tecnologia:** Power BI, DAX, SQL, Power Query e Python
 
 O objetivo é reduzir esforço operacional, elevar a confiabilidade das informações e ampliar a capacidade analítica das organizações.
