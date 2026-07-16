@@ -36,11 +36,11 @@ O objetivo é reduzir esforço operacional, elevar a confiabilidade das informa�
 | Projeto | Objetivo | Tecnologias |
 |---|---|---|
 | [Power BI na Real — Materiais](https://github.com/mildestinos/powerbi-na-real-materials) | Materiais, templates e exemplos práticos de Business Intelligence | Power BI, DAX, Power Query |
+| [Análise Exploratória Automática](https://github.com/mildestinos/analise_dataset) | Geração automatizada de análises, visualizações e relatório HTML | Python, Pandas, Matplotlib |
 | [Matriz de Leontief Interativa](https://github.com/mildestinos/matriz-leontief) | Simulação das relações de interdependência entre setores econômicos | HTML, CSS, JavaScript, Math.js |
 | [Python Financial](https://github.com/mildestinos/python_financial) | Estudos e soluções de Python aplicados a finanças e análise de dados | Python |
-| [Assistente CSV](https://github.com/mildestinos/assistente-csv) | Proposta de ferramenta para exploração e validação inicial de arquivos CSV | Dados, automação |
 | [Pizza Raid](https://github.com/mildestinos/Jogo_pizza) | Jogo 2D com eventos, colisões, estados e geração de executável | Python, Pygame |
-| [Power BI HTML](https://github.com/mildestinos/powerbi_html) | Experimentos e aplicações web ligados à análise e apresentação de dados | HTML, CSS, JavaScript |
+| [Baralho & Probabilidade](https://github.com/mildestinos/powerbinareal) | Simulador educacional de cartas, lógica e probabilidades | HTML, CSS, JavaScript |
 
 ## Linhas de trabalho
 
