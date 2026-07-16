@@ -1,8 +1,8 @@
 # Eric Vieira
 
-### Dados, Business Intelligence e Automação
+### Negócio, Dados e Inovação
 
-Formado em **Administração de Empresas**, especialista em **Finanças** e pós-graduado em **Finanças e Big Data Analytics pela USP**. Uno conhecimento de negócio ao domínio de ferramentas de dados e Business Intelligence para transformar informações em decisões mais claras, ágeis e sustentáveis.
+Formado em **Administração de Empresas**, especialista em **Finanças** e pós-graduado em **Finanças e Big Data Analytics pela USP**. Minha trajetória profissional é construída na área de negócio, com grande interesse por tecnologia, análise de dados e inovação. Utilizo ferramentas como Power BI, SQL, DAX e Python para investigar problemas, explorar possibilidades e apoiar decisões — sem me posicionar como profissional de TI ou programador.
 
 ## Formação
 
@@ -12,11 +12,11 @@ Formado em **Administração de Empresas**, especialista em **Finanças** e pós
 
 ## Proposta de valor
 
-Minha atuação está estruturada na convergência entre três frentes:
+Meu diferencial está na capacidade de transitar entre três perspectivas:
 
-- **Negócio:** finanças, processos, indicadores e apoio à decisão
-- **Dados:** preparação, modelagem, análise e comunicação
-- **Tecnologia:** Power BI, DAX, SQL, Power Query e Python
+- **Negócio:** compreensão de processos, indicadores, necessidades e tomada de decisão
+- **Dados:** curiosidade para investigar, interpretar e comunicar informações
+- **Tecnologia:** uso prático de Power BI, DAX, SQL, Power Query e Python como ferramentas de apoio
 
 O objetivo é reduzir esforço operacional, elevar a confiabilidade das informações e ampliar a capacidade analítica das organizações.
 
@@ -26,9 +26,9 @@ O objetivo é reduzir esforço operacional, elevar a confiabilidade das informa�
 |---|---|
 | Business Intelligence | Power BI, modelagem dimensional, dashboards e indicadores |
 | Análise de dados | Exploração, tratamento, qualidade e visualização de dados |
-| Linguagens | DAX, SQL, Python, Power Query M e JavaScript |
+| Conhecimentos técnicos | DAX, SQL, Python, Power Query M e noções de JavaScript |
 | Processos e produtos | Requisitos, melhoria contínua e visão de produto |
-| Bancos e ferramentas | SQL Server, Oracle, GitHub, DAX Studio e Pentaho |
+| Ferramentas | Power BI, SQL Server, Oracle, GitHub, DAX Studio e Pentaho |
 | Compartilhamento | Conteúdo técnico, mentoria e materiais educacionais |
 
 ## Projetos em destaque
@@ -46,8 +46,8 @@ O objetivo é reduzir esforço operacional, elevar a confiabilidade das informa�
 
 - Automação de análises e rotinas operacionais
 - Modelagem de indicadores gerenciais
-- Desenvolvimento de produtos orientados a dados
-- Aplicação prática de inteligência artificial
+- Experimentação de soluções orientadas a dados
+- Exploração prática de inteligência artificial e novas tecnologias
 - Produção de conteúdo técnico sobre Power BI e DAX
 
 ## Conteúdo e comunidade
@@ -59,8 +59,8 @@ Compartilho conhecimentos, exemplos e experiências práticas por meio do projet
 
 ## Foco atual
 
-Estou desenvolvendo projetos que integram dados, automação e inteligência artificial, com atenção especial à experiência do usuário, confiabilidade das análises e geração de valor para o negócio.
+Estou explorando projetos que conectam necessidades de negócio, dados, automação e inteligência artificial. Meu foco é aprender, experimentar e identificar maneiras mais simples e inovadoras de resolver problemas reais.
 
 ---
 
-> Tecnologia é relevante quando melhora a decisão, simplifica o processo e entrega valor mensurável.
+> Tecnologia é uma ferramenta para compreender melhor os problemas, descobrir possibilidades e inovar com propósito.
